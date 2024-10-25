@@ -1,4 +1,4 @@
-# Market Risk Analysis Using GANs and BiGANs
+# Market Risk Analysis Using BiGANs
 
 This notebook provides a practical approach to analyzing market risk using advanced statistical techniques and machine learning models, with a focus on **Generative Adversarial Networks (GANs)**. GANs, especially Bidirectional GANs (BiGANs), are increasingly valuable in finance for tasks like risk assessment, anomaly detection, and data simulation, offering new ways to evaluate and predict market uncertainties.
 
